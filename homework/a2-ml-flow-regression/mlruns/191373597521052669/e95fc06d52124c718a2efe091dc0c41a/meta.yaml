@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191373597521052669/e95fc06d52124c718a2efe091dc0c41a/artifacts
+end_time: 1694436551453
+entry_point_name: ''
+experiment_id: '191373597521052669'
+lifecycle_stage: active
+run_id: e95fc06d52124c718a2efe091dc0c41a
+run_name: method-batch-lr-0.0001-momentum-0.2-initw-zero-reg-Normal
+run_uuid: e95fc06d52124c718a2efe091dc0c41a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694436522112
+status: 3
+tags: []
+user_id: pooh

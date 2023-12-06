@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191373597521052669/50c1195bb15e46e59c8c2075380ad118/artifacts
+end_time: 1694427625685
+entry_point_name: ''
+experiment_id: '191373597521052669'
+lifecycle_stage: active
+run_id: 50c1195bb15e46e59c8c2075380ad118
+run_name: method-mini-lr-0.01-momentum-0.2-initw-xavier-reg-Polynomial-degree-2
+run_uuid: 50c1195bb15e46e59c8c2075380ad118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694427598097
+status: 3
+tags: []
+user_id: pooh

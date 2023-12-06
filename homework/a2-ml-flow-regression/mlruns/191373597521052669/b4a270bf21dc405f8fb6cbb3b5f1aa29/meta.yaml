@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191373597521052669/b4a270bf21dc405f8fb6cbb3b5f1aa29/artifacts
+end_time: 1694430704494
+entry_point_name: ''
+experiment_id: '191373597521052669'
+lifecycle_stage: active
+run_id: b4a270bf21dc405f8fb6cbb3b5f1aa29
+run_name: method-mini-lr-0.001-momentum-0-initw-xavier-reg-Ridge
+run_uuid: b4a270bf21dc405f8fb6cbb3b5f1aa29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694430675610
+status: 3
+tags: []
+user_id: pooh

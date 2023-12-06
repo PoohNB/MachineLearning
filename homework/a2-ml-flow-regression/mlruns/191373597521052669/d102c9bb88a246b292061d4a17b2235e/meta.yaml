@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191373597521052669/d102c9bb88a246b292061d4a17b2235e/artifacts
+end_time: 1694434040801
+entry_point_name: ''
+experiment_id: '191373597521052669'
+lifecycle_stage: active
+run_id: d102c9bb88a246b292061d4a17b2235e
+run_name: method-batch-lr-0.001-momentum-0-initw-xavier-reg-Lasso
+run_uuid: d102c9bb88a246b292061d4a17b2235e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694434012441
+status: 3
+tags: []
+user_id: pooh

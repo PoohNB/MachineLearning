@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" type="text/css" href="../static/style.css">
+    <title>Car Price Prediction</title>
+</head>
+<body>
+    <h1>Car Price Prediction</h1>
+    <p>Welcome to our Car Price Prediction website. This platform allows you to input relevant information about a car and receive a predicted price based on our machine learning model. The algorithm used is Random Forest. Simply fill in the details below and click "Predict" to see the estimated price. If you're unsure about any information, don't worry; it will be filled with default data.</p>
+    <form method="post">
+        {% for input_info in model_input %}
+        <label for="{{ input_info.name }}">{{ input_info.name }}:</label>
+        <input type="text" id="{{ input_info.name }}" name="{{ input_info.name }}" ><br>
+        {% endfor %}
+        <input type="submit" value="Predict">
+    </form>
+    {% if error_message %}
+    <p class="error">{{ error_message }}</p>
+    {% endif %}
+</body>
+</html>

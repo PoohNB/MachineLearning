@@ -1,0 +1,63 @@
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust the last value for darkness */
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+    background-image: url('../static/Audi.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    position: relative; /* Set the body to relative positioning */
+}
+
+
+
+h1 {
+    text-align: center;
+    padding-top: 50px;
+    color: #f7b731;
+}
+p {
+    text-align: center;
+    color: #f0f0f0;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+form {
+    text-align: center;
+    margin-top: 30px;
+}
+label {
+    display: block;
+    margin-top: 10px;
+    color: #f7b731;
+}
+input[type="text"] {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 300px;
+}
+input[type="submit"] {
+    background-color: #f7b731;
+    color: #ffffff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+input[type="submit"]:hover {
+    background-color: #e3a617;
+}

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/191373597521052669/023f41d757ee469daccb0aa768f60ed5/artifacts
+end_time: 1694427685552
+entry_point_name: ''
+experiment_id: '191373597521052669'
+lifecycle_stage: active
+run_id: 023f41d757ee469daccb0aa768f60ed5
+run_name: Fold-0
+run_uuid: 023f41d757ee469daccb0aa768f60ed5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1694427677991
+status: 3
+tags: []
+user_id: pooh
